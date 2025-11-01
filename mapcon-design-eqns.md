@@ -392,29 +392,3 @@ DC output: Via 2 pads with 2mm spacing (for multimeter probes)
 
 ---
 
-## PART 7: TIMELINE FOR 4-WEEK PROJECT
-
-**Week 1:**
-- Mon-Tue: Single patch design, CST modeling
-- Wed-Thu: Feed optimization, target S11 < -10 dB
-- Fri: Design review, documentation
-
-**Week 2:**
-- Mon: Design 2×1 array, power divider
-- Tue-Wed: Array simulation, verify gain improvement
-- Thu: Rectifier matching network design (ADS)
-- Fri: Integration simulation
-
-**Week 3:**
-- Mon-Tue: PCB layout, design review, send to fab
-- Wed: Receiving PCB
-- Thu-Fri: Assembly, soldering (Schottky diode, passive components)
-
-**Week 4:**
-- Mon-Tue: Network analyzer measurements (S-parameters)
-- Wed: Rectenna efficiency testing
-- Thu: Data collection, report writing
-- Fri: Final report, presentation preparation
-
-**Critical Path:** PCB fabrication time (allow 7-10 days)
-
